@@ -849,8 +849,3 @@
 		body.is-ie #wrapper {
 			height: 100%;
 		}
-#particle-js{
-	position: relative;
-	height: auto;
-	width: auto;
-}
